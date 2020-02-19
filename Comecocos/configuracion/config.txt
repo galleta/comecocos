@@ -1,0 +1,24 @@
+Configuración Jugador 1
+
+Arriba: 
+38
+Abajo: 
+40
+Derecha: 
+39
+Izquierda: 
+37
+
+Configuración Jugador 2
+
+Arriba: 
+87
+Abajo: 
+83
+Derecha: 
+68
+Izquierda: 
+65
+
+Pausa: 
+32
