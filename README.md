@@ -1,4 +1,5 @@
 ![Java](https://img.shields.io/badge/Lenguaje-Java-blue?logo=java)
+![NetBeans](https://img.shields.io/badge/IDE-NetBeans-blue?logo=apachenetbeanside)
 
 # Videojuego del Comecocos
 
